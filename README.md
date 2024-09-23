@@ -1,0 +1,1 @@
+# plugins-hide-categories-or-products-on-shop-page
