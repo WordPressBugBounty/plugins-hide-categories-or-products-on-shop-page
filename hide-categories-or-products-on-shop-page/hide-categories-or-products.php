@@ -3,13 +3,13 @@
  * Plugin Name:       Hide Categories Or Products On Shop Page
  * Plugin URI:        #
  * Description:       Hide the categories or products from shop page woocommerce.
- * Version:           1.0.6
+ * Version:           1.0.7
  * Author:            wordpplugin
  * Author URI:        https://wordpplugin.com/
  * License: GPLv2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       hcps
- * Tested up to:      5.6.2
+ * Tested up to:      6.8.1
  * Domain Path:       /languages
  */
 
